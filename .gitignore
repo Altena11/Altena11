@@ -2,160 +2,7 @@
 
 #EXTM3U billed-msg="COPYRIGHT ONESYSTECH & NSDIGITAL | HANYA JUAL DI SHOPEE KAMI" vod_library="https://mantop.worst.workers.dev/index.html"
 
-###################################################################ARABIC CHANNEL##################################################################
 
-#EXTINF:-1 group-title="ARABIC CHANNEL" tvg-id="arriadia3.mr" group-logo="" tvg-logo="https://i.postimg.cc/sxVnMDWq/download-80.png",Arradia 3
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8
-
-#EXTINF:-1 group-title="ARABIC CHANNEL" tvg-id="Arriadia4.mr" tvg-logo="https://i.postimg.cc/sxVnMDWq/download-80.png",Arriadia 4 HD 
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-id="PalestineMubasher.ps" tvg-logo="https://i.imgur.com/68llVTZ.png" group-title="ARABIC CHANNEL",Palestine Mubasher (404p)
-http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
-#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="ARABIC CHANNEL" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://pbc.furrera.ps/palestinehd/index.m3u8
-
-#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="ARABIC CHANNEL",Palestine Today (480p) [Geo-blocked]
-https://live.paltodaytv.com/paltv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OmanTV.om" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="ARABIC CHANNEL",Oman TV (1080p)
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="BahrainInternational" group-title="ARABIC CHANNEL" tvg-logo="https://i.postiÃ&#175;Â&#191;Â&#189;mg.cc/tCxdyrmQ/images-2.png",Bahrain International 
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BahrainQuran" group-title="ARABIC CHANNEL" tvg-logo="https://i.postimg.cc/d3rVLTy6/Polish-20230905-232433494.jpg",Bahrain Quran 
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BahrainTV.bh" group-title="ARABIC CHANNEL" tvg-logo="https://i.postimg.cc/Jn3F0rhJ/Polish-20230905-232605232.jpg",Bahrain TV
-https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="ARABIC CHANNEL",Rotana Cinema Egypt (1080p)
-https://daiconnect.com/live/hls/rotana/cinema-masr-egypt/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="ARABIC CHANNEL",Rotana Cinema KSA (1080p)
-https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ARABIC CHANNEL",Rotana Classic (1080p)
-https://daiconnect.com/live/hls/rotana/classical/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" group-title="ARABIC CHANNEL",Rotana Comedy (1080p)
-https://daiconnect.com/live/hls/rotana/comedy/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="ARABIC CHANNEL",Rotana Drama (1080p)
-https://daiconnect.com/live/hls/rotana/drama/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="ARABIC CHANNEL",Rotana Khalijia (1080p)
-https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-logo="https://i.imgur.com/YQKf0tq.png" group-title="ARABIC CHANNEL",Rotana Kids (1080p)
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-
-#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="ARABIC CHANNEL",Rotana Music (1080p)
-https://daiconnect.com/live/hls/rotana/music/.m3u8
-
-#EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="ARABIC CHANNEL",Rotana+ (1080p)
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-
-#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="ARABIC CHANNEL",Sama Dubai (1080p)
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SamaTV.sy" tvg-logo="https://i.imgur.com/9DoOxD0.png" group-title="ARABIC CHANNEL",Sama TV (578p) [Not 24/7]
-https://app.sama-tv.net/hls/samatv.m3u8
-
-#EXTINF:-1 tvg-id="Sat7Arabic.cy" tvg-logo="https://i.imgur.com/BzDjQeQ.png" group-title="ARABIC CHANNEL",Sat 7 Arabic (240p)
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-logo="https://i.imgur.com/M0ik0i2.png" group-title="ARABIC CHANNEL",Sat 7 Kids (1080p)
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="SPILebanon.lb" tvg-logo="https://spilebanon.com/img/spi-logo.jpg" group-title="ARABIC CHANNEL",SPI Lebanon (720p)
-http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SyriaDrama.sy" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="ARABIC CHANNEL",Syria Drama (360p) [Not 24/7]
-http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SyrianSatelliteChannel.sy" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="ARABIC CHANNEL",Syria Satellite Channel (360p) [Not 24/7]
-http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="ARABIC CHANNEL",Syria TV (1080p)
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="SyrianEducationalTV.sy" tvg-logo="https://i.imgur.com/PrXBgQG.png" group-title="ARABIC CHANNEL",Syrian Educational TV (360p) [Not 24/7]
-http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SyrianNewsChannel.sy" tvg-logo="https://i.imgur.com/G17eCq6.png" group-title="ARABIC CHANNEL",Syrian News Channel (360p) [Not 24/7]
-http://vod.alikhbaria.net:1935/oLive/snews05042022/playlist.m3u8
-
-#EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/H5Oi2NS.png" group-title="ARABIC CHANNEL",Yemen Shabab Channel (1080p) [Not 24/7]
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-
-#EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="ARABIC CHANNEL",Yemen Today TV (480p)
-https://video.yementdy.tv/hls/yementoday.m3u8
-
-#EXTINF:-1 tvg-id="SBC.sa" tvg-ï&#191;&#189;logo="https://i.imgur.com/9JSQglj.png" group-title="ARABIC CHANNEL",SBC (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/1.m3u8
-
-#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="ARABIC CHANNEL",Al Saudiya (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/2.m3u8
-
-#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="ARABIC CHANNEL",Dubai TV (576p)
-http://210.210.155.37/uq2663/h/h152/index2.m3u8
-
-
-#EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://i.imgur.com/ob1GhbC.jpg" group-title="ARABIC CHANNEL",Sharjah 2 (1080p)
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="https://i.imgur.com/g7IRorO.jpeg" group-title="ARABIC CHANNEL",Abu Dhabi Aloula (1080p)
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-logo="https://i.imgur.com/OT6DW3E.png" group-title="ARABIC CHANNEL",Abu Dhabi Emirates (1080p)
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="ARABIC CHANNEL",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlHadath.ae" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="ARABIC CHANNEL",Al Arabiya Al Hadath (1080p) [Not 24/7]
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MBC 1 USA" tvg-name="MBC 1 KSA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARABIC CHANNEL",MBC 1 KSA HD
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
-
-#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-language="ARABIC CHANNEL" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARABIC CHANNEL",MBC 3 HD
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARABIC CHANNEL",MBC 4 HD [Geo-blocked]
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-
-#EXTINF:-1 tvg-id="MBÃ&#175;Â&#191;Â&#189;C 5" tvg-name="MBC 5" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/48/Mbc5.webp" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARABIC CHANNEL",MBC 5 HD
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-language="Arabic" tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARABIC CHANNEL",MBC DRAMA PLUS HD
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
-#EXTINF:-1 tvg-id="MBCMasr.eg" tvgï&#191;&#189;-logo="https://i.imgur.com/lMNtYqf.png" group-title="ARABIC CHANNEL",MBC Masr 1 (1080p)
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="MBC Masr 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="ARABIC CHANNEL",MBC MASR 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-
-#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" tvg-country="AE" group-title="ARABIC CHANNEL",MBC Persia (1080p)
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-language="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" tvg-country="IQ" tvg-url="" group-title="ARABIC CHANNEL",MBC Iraq
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-
-#EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="ARABIC CHANNEL",Oman Althakafia (1080p)
-https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="OmanTVMubashir.om" tvg-logo="https://i.imgur.com/UkQTR5b.png" group-title="ARABIC CHANNEL",Oman Mubashir (1080p)
-https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="ARABIC CHANNEL",Oman Sports TV (1080p) [Not 24/7]
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 
 <======================== NJOI TV ==========================>
 
@@ -371,92 +218,92 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Cricket.png",824 ASTRO CRICKET
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-<============================ Sports Server A ========================>
+<============================ SPORTS SERVER A ========================>
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Sports Server A" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
+#EXTINF:-1 group-title="SPORTS SERVER A" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Sports Server A" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD
+#EXTINF:-1 group-title="SPORTS SERVER A" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Sports Server A" tvg-id="Sportstars 3 - [Channel 99].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
+#EXTINF:-1 group-title="SPORTS SERVER A" tvg-id="Sportstars 3 - [Channel 99].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Sports Server A" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
+#EXTINF:-1 group-title="SPORTS SERVER A" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
 https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports Server A",Soccer Channel-HD
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORTS SERVER A",Soccer Channel-HD
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="Sports Server A",SpoTV
+#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="SPORTS SERVER A",SpoTV
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="Sports Server A",SpoTV 2
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="SPORTS SERVER A",SpoTV 2
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports Server A",Soccer Channel-HD
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORTS SERVER A",Soccer Channel-HD
 #https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports Server A",Fight Sports
+#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="SPORTS SERVER A",Fight Sports
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports Server A",Astro Supersport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS SERVER A",Astro Supersport 1
 https://bit.ly/456h1i1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports Server A",Astro Supersport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="SPORTS SERVER A",Astro Supersport 2
 https://bit.ly/4bGFyNf
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports Server A",Astro Supersport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORTS SERVER A",Astro Supersport 3
 https://bit.ly/3Vm4d3S
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports Server A",Astro Supersport 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS SERVER A",Astro Supersport 4
 https://bit.ly/4ciCHdx
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="Sports Server A",Astro Arena Bola 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORTS SERVER A",Astro Arena Bola 1
 https://bit.ly/4bx3ToG
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="Sports Server A",Astro Arena Bola 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Arena_Bola.png" group-title="SPORTS SERVER A",Astro Arena Bola 2
 https://bit.ly/4e0KaPL
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="Sports Server A",BEINSPORTS 1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="SPORTS SERVER A",BEINSPORTS 1
 http://xtv.ooo:8080/MansoorWapda/258741/350900
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Sports Server A",BEINSPORTS 3
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="SPORTS SERVER A",BEINSPORTS 3
 http://xtv.ooo:8080/MansoorWapda/258741/350901
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="Sports Server A", TENNIS CHANNEL HD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="SPORTS SERVER A", TENNIS CHANNEL HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3f1wr61du22up80/motorvision.png" group-title="Sports Server A", Motorvision TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3f1wr61du22up80/motorvision.png" group-title="SPORTS SERVER A", Motorvision TV
 https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/816/534/png-transparent-world-fishing-network-fly-fishing-on-the-water-angling-fishing-television-text-orange.png" group-title="Sports Server A", CA: World Fishing Network
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/816/534/png-transparent-world-fishing-network-fly-fishing-on-the-water-angling-fishing-television-text-orange.png" group-title="SPORTS SERVER A", CA: World Fishing Network
 http://117tv.icu:8080/live/X5xRz0/944877/57471.m3u8
 
 <=========================================== TVRI Group =========================================>
