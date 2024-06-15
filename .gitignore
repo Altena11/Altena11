@@ -223,9 +223,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 -------- EURO 2024 ----
 ###########################################################################EURO 2024###############################################################################
 
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -238,11 +235,7 @@ http://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="EURO 2024" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",SPOTV2 V+
 http://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars V+
-http://liveaneviadev.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
 -----------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -287,11 +280,7 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
 
 
 
------ZIGGO----
-#EXTINF:-1 tvg-id=" group-title="EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg",Ziggo Voetbal
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1282763&extension=ts
-#EXTINF:-1 tvg-id=" group-title="EURO 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg",Ziggo Racing
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=1282760&extension=ts
+
 
 
 
