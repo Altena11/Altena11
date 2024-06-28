@@ -2177,7 +2177,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="MOVIES",HITS MOVIES (BACKUP)
 http://iptvtree.net:8080/AmirBilali/76448035/221947
 
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES", ID: HBO FAMILY (BACKUP)
+http://iptvtree.net:8080/AmirBilali/76448035/197055
 
 
 
