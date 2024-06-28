@@ -1301,7 +1301,7 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 
 
 
-  #######################################MOVIES##########################################################################
+#########################################MOVIES##########################################################################
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2174,7 +2174,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 #EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="MOVIES",Zee Cinema HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="MOVIES",HITS MOVIES (BACKUP)
+http://iptvtree.net:8080/AmirBilali/76448035/221947
 
 
 
