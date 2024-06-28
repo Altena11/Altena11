@@ -80,10 +80,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltre
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="Historia" tvg-name="" tvg-logo="https://i.ibb.co/LdMJYtQ/historia.png" group-title="KNOWLEDGE", HISTORIA 
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-logo="https://i.ibb.co/LdMJYtQ/HISTORY.png" group-title="KNOWLEDGE", HISTORY 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
-https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
+https://ott.zapitv.com/live/eds_c2/HISTORY_hd/dash_live_enc/HISTORY_hd.mpd
 
 #EXTINF:-1 channel-id="samsung-USBD1200009JI" tvg-id="USBD1200009JI" tvg-logo="https://i.ibb.co/r48XxcW/historyandwarfare.png" tvg-chno="1406" group-title="KNOWLEDGE" , History & Warfare Now 
 https://i.mjh.nz/SamsungTVPlus/USBD1200009JI.m3u8
@@ -97,14 +97,6 @@ https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 #EXTINF:-1 channel-id="samsung-GBBA220000751" tvg-id="GBBA220000751" tvg-logo="https://i.ibb.co/8bC9QZF/inwild.png" group-title="KNOWLEDGE" , INWILD
 https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zVTNdBP/lovenature.png" group-title="KNOWLEDGE", LOVE NATURE
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE" tvg-logo="https://i.ibb.co/zVTNdBP/lovenature.png" group-title="KNOWLEDGE", LOVE NATURE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenatureus-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="LOVE NATURE 4K" tvg-logo="https://i.ibb.co/T0hVvvF/lovenature4k.png" group-title="KNOWLEDGE", LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -252,6 +244,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
 
 #EXTINF:-1 channel-id="samsung-GBBC4300002RW" tvg-id="GBBC4300002RW" tvg-logo="https://i.ibb.co/9tW1gBx/wildearth.png" group-title="KNOWLEDGE" , WildEarth
 https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+
 
 
 
