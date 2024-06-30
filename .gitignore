@@ -675,6 +675,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_TVS.png",122 TVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V7.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",147 TV7
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
