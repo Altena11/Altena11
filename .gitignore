@@ -32,19 +32,7 @@ https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://i.ibb.co/N90QkY0/OEOE.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Astro Live Show (Waktu Live Sahaja) 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8xSNHnN97ONVS4iYaIMWWQ", "kid":"jVgMJj/95pG0JJ38rEP9EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://i.ibb.co/N90QkY0/OEOE.jpg" tvg-logo="https://i.ibb.co/XVRyC81/sooka-logo.png", 100 Astro Live Show (Waktu Live Sahaja) 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQoeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQo"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
-https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 
 
@@ -130,12 +118,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="8TV" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_V8.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" group-title="MALAYSIA",148 TV8
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+
 
 
 
@@ -463,19 +446,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Warner.png",712 WARNER TV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"padw2I5EA3cvNuIxPo4y0A", "kid":"//WSeiJJ8JT6N3PDkClAEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ParamountNetwork" tvg-name="Paramount Network" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Para.png?5423" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",713 PARAMOUNT NETWORK
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
