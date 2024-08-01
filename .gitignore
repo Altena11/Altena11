@@ -123,20 +123,20 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5164/default.mpd
 #EXTINF:-1 tvg-id="OLY16" group-title="OLYMPIC PARIS 2024" group-logo="https://iili.io/dx8UOYP.png" ch-number="795" tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg",OLY 16
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5165/default.mpd
 
-#EXTINF:-1 tvg-id="Saluran1"  group-tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg" group-title="OLYMPIC PARIS 2024",RTM OLY1
+#EXTINF:-1 tvg-id="Saluran1"  group-tvg-logo="https://i.ibb.co/9TVqnh3/paris-summer-olympics.webp" group-title="OLYMPIC PARIS 2024",RTM OLY1
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/chunklist_b2596000_slENG.m3u8
   
-#EXTINF:-1 tvg-id="Saluran2"  group-tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg" group-title="OLYMPIC PARIS 2024",RTM OLY2
+#EXTINF:-1 tvg-id="Saluran2"  group-tvg-logo="https://i.ibb.co/9TVqnh3/paris-summer-olympics.webp" group-title="OLYMPIC PARIS 2024",RTM OLY2
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/chunklist_b2596000_slENG.m3u8
   
-#EXTINF:-1 tvg-id="Saluran3"  group-tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg" group-title="OLYMPIC PARIS 2024",RTM OLY3
+#EXTINF:-1 tvg-id="Saluran3"  group-tvg-logo="https://i.ibb.co/9TVqnh3/paris-summer-olympics.webp" group-title="OLYMPIC PARIS 2024",RTM OLY3
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/chunklist_b2596000_slENG.m3u8
   
-#EXTINF:-1 tvg-id="Saluran4"  group-tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg" group-title="OLYMPIC PARIS 2024",RTM OLY4
+#EXTINF:-1 tvg-id="Saluran4"  group-tvg-logo="https://i.ibb.co/9TVqnh3/paris-summer-olympics.webp" group-title="OLYMPIC PARIS 2024",RTM OLY4
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/chunklist_b2596000_slENG.m3u8
   
-#EXTINF:-1 tvg-id="Saluran5"  group-tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg" group-title="OLYMPIC PARIS 2024",RTM OLY5
+#EXTINF:-1 tvg-id="Saluran5"  group-tvg-logo="https://i.ibb.co/9TVqnh3/paris-summer-olympics.webp" group-title="OLYMPIC PARIS 2024",RTM OLY5
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/chunklist_b2596000_slENG.m3u8
   
-#EXTINF:-1 tvg-id="Saluran6"  group-tvg-logo="https://i.ibb.co/KwFn4mW/Screenshot-20240725-185456.jpg" group-title="OLYMPIC PARIS 2024",RTM OLY6
+#EXTINF:-1 tvg-id="Saluran6"  group-tvg-logo="https://i.ibb.co/9TVqnh3/paris-summer-olympics.webp" group-title="OLYMPIC PARIS 2024",RTM OLY6
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
