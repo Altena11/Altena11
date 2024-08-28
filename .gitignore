@@ -10403,7 +10403,17 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="123" ch-number="123" tvg-name="Awesome TV" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",123 Awesome TV (Server 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Awesome.png?5423" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",123 Awesome TV (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/manifest.mpd  
   
   
 
@@ -11396,11 +11406,7 @@ http://58.176.4.57:8800/play/a00b
 #EXTINF:-1 tvg-id="TVBPearl" tvg-name="TVBPearl" group-title="CHINESE"  tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png/revision/latest?cb=20180530133540",TVB Pearl (B)
 http://193.24.209.91/Smart.php?id=pearl_twn
 
-#EXTINF:-1 tvg-id="TVBJADE" tvg-name="TVBJADE" group-title="CHINESE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXmIHffjIrafwJGzc-fOUjXJTjT4oJZRvPFpzeXQa&s",TVB JADE (A)
-http://58.176.4.57:8800/play/a00g
 
-#EXTINF:-1 tvg-id="TVBJADE" tvg-name="TVBJADE" group-title="CHINESE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXmIHffjIrafwJGzc-fOUjXJTjT4oJZRvPFpzeXQa&s",TVB JADE (B)
-http://193.24.209.91/Smart.php?id=jade_twn
 
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB PLUS" group-title="CHINESE"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLapXYrejSzeb2jh1N8UuJTIkuZiJiW02YzbHm0Q6VWA&s",TVB PLUS (A)
 http://58.176.4.57:8800/play/a00c
