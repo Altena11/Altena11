@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroBadminton1" tvg-name="ASSP5 HD" group-title="ASTRO BADMINTON" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" ch-number="815",Astro Badminton 1
+#EXTINF:-1 tvg-id="AstroBadminton1" tvg-name="ASSP5 HD" group-title="ASTRO BADMINTON" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" ch-number="815",Astro 815 Badminton 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_primary.mpd
 
@@ -10,5 +10,5 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_primary.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F8Ga1nClV+aIJBnWkj+tJw", "kid":"cq1uqhkEVAE4SH//o61lEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroBadminton2" tvg-name="ASSP6 HD" group-title="ASTRO BADMINTON" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" ch-number="816",Astro Badminton 2
+#EXTINF:-1 tvg-id="AstroBadminton2" tvg-name="ASSP6 HD" group-title="ASTRO BADMINTON" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" ch-number="816",Astro 816 Badminton 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
