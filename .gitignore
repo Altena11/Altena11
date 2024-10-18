@@ -9871,6 +9871,24 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
+#EXTINF:-1 tvg-id="SkySportTennis.de" group-logo="https://iili.io/dirVHCJ.jpg" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="ANOTHER SPORTS",True Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_960_h_960.jpg" group-title="ANOTHER SPORTS",Fight Sports
+http://tooontv.com:999/live/ere3444h/agape/31173.m3u
+
+#EXTINF:-1 group-title="ANOTHER SPORTS" tvg-logo="https://i.imgur.com/wZMkKF7.png",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="ANOTHER SPORTS" tvg-logo="https://i.imgur.com/wZMkKF7.png",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="DAZNLaLigaSpain.uk" group-title="ANOTHER SPORTS" tvg-logo="https://bit.ly/3SpOwV9",Dazn La Liga
+http://tooontv.com:999/live/ere3444h/agape/184849.m3u
+
+
 
 
 
