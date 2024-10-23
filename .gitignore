@@ -10430,7 +10430,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hy
 #EXTINF:-1 tvg-id="502" ch-number="502" tvg-name="Love Nature HD" group-title="UNIFI TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",502 Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/manifest.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
 
   
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10837,7 +10837,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png",550 LOVE NATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/manifest.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/manifest.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11697,7 +11697,7 @@ http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/55305
 
 
 
-
+################# DOCUMENTARY ###################
 
 #EXTINF:-1 tvg-id="708"  group-title="DOCUMENTARY" group-logo="https://iili.io/dirVHCJ.jpg" ch-number="708",708 Food Network 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11788,7 +11788,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default_primary.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/manifest.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
 
 
