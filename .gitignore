@@ -10341,7 +10341,34 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch106.m3u8
 
+#######################################################################################################################################################################
+######LIVE EVENT#####
+#######################################################################################################################################################################
 
+#EXTINF:-1  tvg-id="AstroWarna"  group-title="LIVE EVENT ONLY"  ch-number="107" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Muzikal Lawak Superstar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQoeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQo"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
+https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1  tvg-id="AstroPrima"  group-title="LIVE EVENT ONLY"  ch-number="105" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Kilauan Emas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQoeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUaGhabU14WmpBdE9EZ3pNaTAwT0RrMExUaGlNR0l0TVRaaE9UWXlaVE0zTjJNeCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMjE3MjgwNCwiaWF0IjoxNzAxNTY4ODA0fQ.vinEwql2deyMbNSPZ9OkUoFqOHbxjqczcB_sqePicQo"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
+https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XRTBNVGsxTW1RdFpXRmlaUzAwTURVeExXSTVOV0l0TnpWa1lUQTJNMlkyTWpjNSIsIndtb3BpZCI6MzIsImV4cCI6MTcyOTc3NzE3OSwiaWF0IjoxNzI5MTczMTc5fQ.9CrhY3elzAabpVHjK1n5JoPzOjtJRdr4pMZl62k3DDs"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" group-title="LIVE EVENT ONLY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" tvg-id="104.ria",Astro RIA
+https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
 
 
 
@@ -21237,3 +21264,5 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rikelhSG5fVT8NwcTnZQqg","kid":"DFM/jwb8Vju85FEYV/RobQ"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548cba69_hbovodsd/dash0/MYS_index.mpd
+
+
