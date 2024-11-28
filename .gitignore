@@ -11951,12 +11951,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="MoonbugKids" tvg-name"Moonbug Kids" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/moonbugkids.png?5423" ch-number="618",618 Moonbug Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="MoonbugKids.uk.my" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/marginfull/ott/main/moonbugkids.png?5423" ch-number="618",618 Moonbug Kids
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
-#https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CBeebies" group-title="KIDS" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="" group-title="MALAYSIA",620 CBEEBIES
