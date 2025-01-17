@@ -11604,7 +11604,7 @@ https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/
 #########################################################MOVIES#######################################################################################################
 
 
-############## MOVIES ###################
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -11618,14 +11618,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 Pixl TV Movie Channel
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSCSjj3F/download-59.jpg" group-title="MOVIES",ROCK Action
-https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="MOVIES",Bollywood HD (1080p)
+
+#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="MOVIES",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="MOVIES",DiscoverFilm
@@ -11634,12 +11629,9 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="MOVIES",MyTime Movie Network
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png" group-title="MOVIES",Sony Movies
-http://tooontv.com:999/live/ere3444h/agape/187446.m3u
-#http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/28823
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="MOVIES",Redbox 1: Spotlight (1080p)
-https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -11665,22 +11657,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO Signature
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOSignature.m3u8
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png",HBO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://offshore.lat:8080/armando86/dPCeWVgyHN9j/263289
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png",HBO Mundi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://offshore.lat:8080/armando86/dPCeWVgyHN9j/137
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png",HBO Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://offshore.lat:8080/armando86/dPCeWVgyHN9j/263289
+
+
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -11717,25 +11700,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #EXTINF:-1 tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.ibb.co/xC4b8rC/pix-11-plus.jpg" tvg-id="" group-title="MOVIES", PIX 11 Plus
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO Extreme
-http://168.181.122.234:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO Mundi
-https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVC5928/Action-Movie.jpg" group-title="MOVIES" tvg-id="ver6" tvg-name="ver6", Action Movies 1
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="MOVIES" tvg-id="ver6" tvg-name="ver6", Action Movies 2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwCfFqb/Action-Movie-2.jpg" group-title="MOVIES" tvg-id="ver6" tvg-name="ver6", Action Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 channel-id="samsung-USBD17000117B" tvg-id="USBD17000117B" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="MOVIES",Moviesphere Free
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="MOVIES",Rakuten TV
-https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
+
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
@@ -11813,7 +11790,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX.id" group-title="MOVIES" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png",Kix (ID)
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX.id" group-title="MOVIES" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png",Kix
 https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.postimg.cc/28rxjgwk/1681490401760.png",Flik
@@ -11821,9 +11798,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" group-title="MOVIES" tvg-logo="https://i.ibb.co/mGnNDBW/Box-Movie-1.webp", Box Movie 1 SCTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+
 
 #EXTINF:-1 channel-id="pluto-645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="140" group-title="MOVIES" , MovieSphere by Lionsgate
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
@@ -11834,23 +11809,14 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 #EXTINF:-1 tvg-id="ver6" tvg-name="ver6" group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" group-title="MOVIES"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfLOa4vtcn2Q30IKYU2csQUUnLoSF1on2CJpydscy5yQ&s",Watch Mojo TV
-https://watchmojo-1-us.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IONPlus" tvg-name="IONPlus" group-title="MOVIES"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZ4gaheg_uSSQ6bT_utL9x9unBSWZDXfwgB6zKkNzIQ&s",ION Plus
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
 
-#EXTINF:-1 tvg-id="ION" tvg-name="ION" group-title="MOVIES"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVKXRyfeWRSw_CHJmcwTNnwzmqLbS5uT8cmw5HxJtKA&s",ION
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION.m3u8
 
-#EXTINF:-1 tvg-id="IONMystery" tvg-name="ION Mystery" group-title="MOVIES"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRO66ryTFcQMYZUSLApF-hZiLCHMjyIlKoqHVfYIkKhQ&s",ION Mystery
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Mystery.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD270001633" tvg-id="USBD270001633" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20231129T022314SQUARE.png_20231129022315.png" tvg-chno="1455" group-title="MOVIES" , Hallmark Movies & More
 https://jmp2.uk/sam-USBD270001633.m3u8
 
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.postimg.cc/BQDHXLY8/download-2024-01-23-T004052-387.jpg" group-title="MOVIES", Ava Series
-https://avaserieshls.wns.live/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="ver6" tvg-name="ver6" tvg-logo="https://i.postimg.cc/wTLzZgM8/download-2024-01-23-T004250-573.jpg" group-title="MOVIES", Ava Family
 https://familyhls.avatv.live/hls/stream.m3u8
