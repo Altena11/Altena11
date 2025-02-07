@@ -3,14 +3,14 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRia" group-title="3 SERANGKAI TEST" ch-number="104" group-logo="group-logo="https://iili.io/dirVHCJ.jpg"" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png", RI@
+#EXTINF:-1 tvg-id="AstroRia" group-title="3 SERANGKAI TEST" ch-number="104" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png", RI@
 https://tinyurl.com/playria0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPrima" group-title="3 SERANGKAI TEST" ch-number="105" group-logo="group-logo="https://iili.io/dirVHCJ.jpg"" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM@
+#EXTINF:-1 tvg-id="AstroPrima" group-title="3 SERANGKAI TEST" ch-number="105" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM@
 https://tinyurl.com/playprim0
 
 
@@ -19,5 +19,5 @@ https://tinyurl.com/playprim0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCitra" group-title="3 SERANGKAI TEST" ch-number="108" group-logo="group-logo="https://iili.io/dirVHCJ.jpg"" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",CITR@
+#EXTINF:-1 tvg-id="AstroCitra" group-title="3 SERANGKAI TEST" ch-number="108" group-logo="https://iili.io/dirVHCJ.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",CITR@
 https://tinyurl.com/playcit0
