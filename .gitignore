@@ -11918,6 +11918,11 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_127.m
 #EXTINF:-1 group-title="KIDS" tvg-id="472.unifi" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",ANIMAX
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
+#EXTINF:-1  tvg-id="5d00e8adaab96b5635b2a005" tvg-name="SpongeBob Schwammkopf" group-title="KIDS" tvg-logo="https://i.ibb.co/y5BKZfz/MV5-BNDUw-Nj-Bk-Mm-Ut-Zj-M2-My00-Nm-M4-LTlm-OWQt-NWE5-YTdm-N2-Y2-MTgx-Xk-Ey-Xk-Fqc-Gde-QXRy-YW5z-Y29.jpg",Spongebob
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
 ##############################################################################NEWS######################################################################################
 
 
