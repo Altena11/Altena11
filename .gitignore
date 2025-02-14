@@ -10367,7 +10367,7 @@ https://tinyurl.com/playria0
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPrima" group-title="3 SERANGKAI TEST" ch-number="105" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM@ TEST
+#EXTINF:-1 tvg-id="AstroPrima" group-title="3 SERANGKAI TEST" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM@ TEST
 https://tinyurl.com/playprim0
 
 
@@ -10376,7 +10376,7 @@ https://tinyurl.com/playprim0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCitra" group-title="3 SERANGKAI TEST" ch-number="108" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",CITR@ TEST
+#EXTINF:-1 tvg-id="AstroCitra" group-title="3 SERANGKAI TEST" ch-number="108" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",CITR@ TEST
 https://tinyurl.com/playcit0
 
 
