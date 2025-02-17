@@ -9525,7 +9525,7 @@ Jangan tekan link ni. Add link ni kat url playlist ott.
 
 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="1 ID 1 DEVICE ONLY"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="1 ID 1 DEVICE ONLY"
 
 
 
@@ -11552,7 +11552,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="Bloomberg Television (HD).sg" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517",Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg Television (HD).sg" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517",Bloomberg (SERVER 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -11571,7 +11571,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
 
 
 
-#EXTINF:-1 channel-id="SamsungTVPlus-USAJ30000041W" tvg-id="USAJ30000041W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000041W_20240924T225008SQUARE.png" group-title="NEWS" tvg-chno="1160",Bloomberg
+#EXTINF:-1 channel-id="SamsungTVPlus-USAJ30000041W" tvg-id="USAJ30000041W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000041W_20240924T225008SQUARE.png" group-title="NEWS" tvg-chno="1160",Bloomberg (SERVER 2)
 https://jmp2.uk/sam-USAJ30000041W.m3u8
 
 ########################################################################RADIO#########################################################################################
