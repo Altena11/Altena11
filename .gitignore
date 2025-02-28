@@ -224,6 +224,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="111" tvg-logo="https://aqfadtv.xyz/logos/Sukan RTM.png",Sukan RTM
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="111" tvg-logo="https://aqfadtv.xyz/logos/Sukan RTM.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
