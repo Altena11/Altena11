@@ -9616,7 +9616,7 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 ###########################################################################SPORTS################################################################################
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="SPORTS",
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
@@ -10388,8 +10388,7 @@ http://83.142.30.171:8080/live/perfecttv/perfecttv/37.ts
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="MALAYSIA",
+
 
   
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1
@@ -10521,7 +10520,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 ############################## SINGAPORE #####################################################################################################################################
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="SINGAPORE",
+
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://iili.io/JmoSiGe.png" group-title="SINGAPORE",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10556,7 +10555,7 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="INDIAN",
+
   
 #EXTINF:-1 ch-number="221" tvg-name="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="INDIAN" tvg-id="StarVijay",221 Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10680,7 +10679,7 @@ http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 ################################################################CHINESE##########################################################################################
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="CHINESE",
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10777,7 +10776,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo=""  group-title="KOREAN",
+
 
 
 
@@ -10822,7 +10821,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
 #########################################################MOVIES#######################################################################################################
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="MOVIES",
+
 
 
 
@@ -10921,7 +10920,7 @@ https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamax
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="MOVIES",
+
 
 
 
@@ -10951,7 +10950,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="DOCUMENTARY",
+
 
 #EXTINF:-1 tvg-id="AnimalPlanet" ch-number=" " tvg-name="Animal Planet HD" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" ch-number="556",556 Animal Planet 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11033,7 +11032,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
 ------------------------------------------------------
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" group-title="DOCUMENTARY",
+
 
 
 #EXTINF:-1 tvg-id="Lifetime" ch-number="703" tvg-name="Lifetime HD" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="DOCUMENTARY",703 Lifetime (MY)
@@ -11072,7 +11071,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="KIDS",
+
 
 #EXTINF:-1 tvg-id="BlippiandFriends" group-title="KIDS" ch-number="619",619 Blippi&Friends
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11189,7 +11188,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="" group-title="NEWS",
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
