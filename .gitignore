@@ -9712,11 +9712,6 @@ https://l17.dp.sooka.my/5170/linear/index.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
   
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="AstroSportsPlus" ch-number="817" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png",817 Astro Sports Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yLiGFCAF1+UGfIcXd36qxA","kid":"gTUrxH7BF3syHuZawb5/EA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -9724,7 +9719,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e676c88f5cc74beebed5f6fb6406c23c":"7091db9a73ccea572d2b7b4461f0c8e5","28bfcc9774644bda822c17a35660164c":"620dba660d3e1f42acd6b077b4ca1dd8"}
-#EXTINF:-1 tvg-id="AstroSportsPlus" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="817" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png",Astro Sports Plus
+#EXTINF:-1 tvg-id="AstroSportsPlus" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="817" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png",817 Astro Sports Plus
 https://l16.dp.sooka.my/5171/linear/index.mpd
 
 #EXTINF:-1 tvg-id="818.astro" group-title="SPORTS" ch-number="818" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",818 Astro PremierLeague 4
