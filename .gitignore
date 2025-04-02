@@ -9611,19 +9611,21 @@ https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.co
 group-logo="https://iili.io/dMQO9t4.png"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arenafhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDM1NDIxMDcsImlzcyI6IlZSIiwiZXhwIjoxNzQzNTcwOTA3LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.MmJSrM0eJXP7UfnMW1eQjw6ht0S1NECqzL-w8WgakVk
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArena" ch-number="801" tvg-name="Astro Arena HD" group-title="SPORTS" ch-number="801" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",801 Astro Arena HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://get.perfecttv.net/logo/arena2fhd.png",802 Arena 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=arena2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDM1NDIxMDcsImlzcyI6IlZSIiwiZXhwIjoxNzQzNTcwOTA3LCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmJjMWZhNGItZGE0Mi00Y2IyLTk5YWQtNzAxYjExMzgxMWEzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.MmJSrM0eJXP7UfnMW1eQjw6ht0S1NECqzL-w8WgakVk
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArena2" ch-number="802" tvg-name="Astro Arena 2 HD" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",802 Astro Arena 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png",803 Arena Bola
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -10294,19 +10296,18 @@ https://flv.intechmedia.net/live/ch106.m3u8
 ###############################################3 SERANGKAI TEST#####################################################
 
 
-#EXTINF:-1 tvg-id="AstroRia" group-title="TEST NOT 24jam" ch-number="104" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",RI@ TEST
+#EXTINF:-1 tvg-id="AstroRia" group-title="3 SERANGKAI TEST" ch-number="104" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png",RI@ TEST
 #EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
 https://tinyurl.com/riats0
 
 
 
-#EXTINF:-1 tvg-id="AstroPrima" group-title="TEST NOT 24jam" ch-number="105" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM@ TEST
+#EXTINF:-1 tvg-id="AstroPrima" group-title="3 SERANGKAI TEST" ch-number="105" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Prima (2024).png",PRIM@ TEST
 #EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
 https://tinyurl.com/primts0
 
 
-
-#EXTINF:-1 tvg-id="AstroCitra" group-title="3 SERANGKAI TEST" ch-number="108" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png",CITR@ TEST
+#EXTINF:-1 tvg-id="AstroCitra" group-title="3 SERANGKAI TEST" ch-number="108" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://aqfadtv.xyz/logos/Astro Citra (2024).png", CITR@ TEST
 #EXTVLCOPT:http-user-agent=PerfectTv v3 (Android 9)
 http://83.142.30.171:8080/live/perfecttv/perfecttv/37.ts
 
