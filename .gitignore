@@ -128,46 +128,46 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-country="ID" tvg-logo="Bungo TVN" group-title="LOKAL",Bungo TVN
+#EXTINF:0 tvg-country="ID" tvg-logo="Bungo TVN" group-title="NASIONAL",Bungo TVN
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="Al-Iman TV" group-title="LOKAL",Al-Iman TV
+#EXTINF:0 tvg-country="ID" tvg-logo="Al-Iman TV" group-title="NASIONAL",Al-Iman TV
 https://tv.aliman.id/aliman/live.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSVdhaMAbDI7t7HJv8iWxq3_ZvMcWQYQlsQ&usqp=CAU" group-title="LOKAL",JITV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSVdhaMAbDI7t7HJv8iWxq3_ZvMcWQYQlsQ&usqp=CAU" group-title="NASIONAL",JITV HD
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="LOKAL",Dhoho TV (720p)
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="NASIONAL",Dhoho TV (720p)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="LINGKARTV" group-title="LOKAL",LINGKARTV
+#EXTINF:0 tvg-country="ID" tvg-logo="LINGKARTV" group-title="NASIONAL",LINGKARTV
 https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="LOKAL",SURABAYA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="NASIONAL",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 
 
-#EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="LOKAL",Sakti TV
+#EXTINF:-1 tvg-id="SaktiTV" tvg-logo="https://i.imgur.com/IDNjMfQ.png" group-title="NASIONAL",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="LOKAL",Duta TV
+#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="NASIONAL",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="LOKAL",PSJ TV_🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="NASIONAL",PSJ TV_🇲🇨
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="LOKAL",DMTV MALANG
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" group-title="NASIONAL",DMTV MALANG
 https://e.siar.us/live/dmtv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="INSPIRATV" group-title="LOKAL",INSPIRATV 
+#EXTINF:-1 tvg-logo="INSPIRATV" group-title="NASIONAL",INSPIRATV 
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="PRIMATV" group-title="LOKAL",PRIMATV
+#EXTINF:-1 tvg-logo="PRIMATV" group-title="NASIONAL",PRIMATV
 https://primatv.siar.us/primatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="BMS" group-title="LOKAL",BMSTV
+#EXTINF:-1 tvg-logo="BMS" group-title="NASIONAL",BMSTV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="LOKAL",TV Kesehatan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="NASIONAL",TV Kesehatan
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -175,49 +175,49 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="LOKAL",TV9 Nusantara (720p)
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="NASIONAL",TV9 Nusantara (720p)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 
-#EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="LOKAL",Jogja Istimewa TV (720p)
+#EXTINF:-1   tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="NASIONAL",Jogja Istimewa TV (720p)
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bandung TV.id" tvg-logo="https://iili.io/Jbtnh2j.png" group-title="LOKAL",Bandung TV
+#EXTINF:-1 tvg-id="Bandung TV.id" tvg-logo="https://iili.io/Jbtnh2j.png" group-title="NASIONAL",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="LOKAL",Semarang TV
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="NASIONAL",Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" group-title="LOKAL",Banjar TV
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" group-title="NASIONAL",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtn43J.png" group-title="LOKAL",BETV
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtn43J.png" group-title="NASIONAL",BETV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch58.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Jbto9af.png" group-title="LOKAL",Jaya TV
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto9af.png" group-title="NASIONAL",Jaya TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch52.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnSCF.png" group-title="LOKAL",BMS TV
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnSCF.png" group-title="NASIONAL",BMS TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="LOKAL",Dhamma TV
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="NASIONAL",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtnipp.png" group-title="LOKAL",Dhoho TV
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtnipp.png" group-title="NASIONAL",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Jbto2u2.png" group-title="LOKAL",JITV
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto2u2.png" group-title="NASIONAL",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtox8x.png" group-title="LOKAL",Kilisuci TV
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtox8x.png" group-title="NASIONAL",Kilisuci TV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Jbton3b.png" group-title="LOKAL",Pal TV
+#EXTINF:-1 tvg-logo="https://iili.io/Jbton3b.png" group-title="NASIONAL",Pal TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch18.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Jbto7MF.png" group-title="LOKAL",RBTV
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto7MF.png" group-title="NASIONAL",RBTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch59.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnxII.png" group-title="LOKAL",Sampit TV
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnxII.png" group-title="NASIONAL",Sampit TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch56.m3u8
 
