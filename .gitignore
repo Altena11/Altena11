@@ -139,6 +139,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="LOKAL",Dhoho TV (720p)
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="ID" tvg-logo="Lingkar TV" group-title="LOKAL",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png" group-title="LOKAL",SURABAYA TV
@@ -158,10 +159,10 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 https://e.siar.us/live/dmtv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
-#EXTINF:-1 tvg-logo="Inspira Tv " group-title="LOKAL",Inspira Tv 
+#EXTINF:-1 tvg-logo="INSPIRATV" group-title="LOKAL",INSPIRATV 
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="Prima tv" group-title="LOKAL",Prima tv
+#EXTINF:-1 tvg-logo="PRIMATV" group-title="LOKAL",PRIMATV
 https://primatv.siar.us/primatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="BMS" group-title="LOKAL",BMSTV
