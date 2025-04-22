@@ -9525,7 +9525,7 @@ Isi url dalam ott ikut step. bukan tekan link
 
 
 #EXTM3U 
-#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" vod_library="https://azimabid00.github.io/epg/astro_epg.xml, https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="6"
+#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" vod_library="https://azimabid00.github.io/epg/astro_epg.xml" billed-msg="7"
  
 
 
