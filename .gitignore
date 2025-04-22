@@ -1,5 +1,5 @@
-#EXTM3U billed-msg="0123456789"
-#EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.json" 
+#EXTM3U billed-msg="1"
+#EXTM3U vod_library="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" 
 Jangan tekan link ni. Add link ni kat url playlist ott.
 
 
