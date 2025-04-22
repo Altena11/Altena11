@@ -1,5 +1,4 @@
-#EXTM3U billed-msg="IN BARU HBO"
-#EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.json,https://mantop.worst.workers.dev/index.html"
+ 
 Jangan tekan link ni. Add link ni kat url playlist ott.
 
 
@@ -9526,12 +9525,11 @@ Jangan tekan link ni. Add link ni kat url playlist ott.
 
 
 
+#EXTM3U billed-msg="1 ID - 1 DEVICE ONLY"
 
 
-
-
- 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://aqfadtv.xyz/epg" refresh="1440"
+#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://aqfadtv.xyz/epg" refresh="1440" 
 
 
 
@@ -11027,7 +11025,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
-------------------------------------------------------
+
 
 #EXTINF:-1 tvg-id="Lifetime" ch-number="703" tvg-name="Lifetime HD" ch-number="703" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="DOCUMENTARY",703 Lifetime (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11248,7 +11246,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
 ########################################################################RADIO#########################################################################################
-
+#EXTM3U vod_library="https://mantop.worst.workers.dev/index.html,https://vod.pondan.workers.dev/dewanonton.json"
 
 #EXTINF:-1 tvg-id="CHN" group-title="RADIO" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
@@ -20251,4 +20249,4 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb3886d940521074e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rikelhSG5fVT8NwcTnZQqg","kid":"DFM/jwb8Vju85FEYV/RobQ"}],"type":"temporary"}
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548cba69_hbovodsd/dash0/MYS_index.mpd
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c912c75ba74fe65548cba69_hbovodsd/dash0/MYS_index.mpd 
