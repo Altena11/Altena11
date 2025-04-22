@@ -9520,7 +9520,8 @@ Jangan tekan link ni. Add link ni kat url playlist ott.
 
 
 
-
+#EXTM3U 
+#EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml"
 
 
 
