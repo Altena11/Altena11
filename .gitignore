@@ -1,6 +1,5 @@
-#EXTM3U billed-msg="2 VOD"
-#EXTM3U vod_library="https://mantop.worst.workers.dev/index.html"
-#EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.json"
+#EXTM3U billed-msg="IN HBO"
+#EXTM3U vod_library="https://vod.pondan.workers.dev/dewanonton.jsonhttps://mantop.worst.workers.dev/index.html"
 
 Jangan tekan link ni. Add link ni kat url playlist ott.
 
