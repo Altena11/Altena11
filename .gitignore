@@ -375,12 +375,6 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="WORLD SPORTS",SKY NEWS EXTRA 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 1" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="WORLD SPORTS",MY| SONY TEN 1
-http://extraott.com:900/live/3162523972/3791698850/29566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 2" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="WORLD SPORTS",MY| SONY TEN 2
-http://extraott.com:900/live/3162523972/3791698850/29565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 3" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="WORLD SPORTS",MY| SONY TEN 3
-http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| SPOTV 1 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="WORLD SPORTS",MY| SPOTV 1 HD
 http://extraott.com:900/live/3162523972/3791698850/400251883.m3u8
