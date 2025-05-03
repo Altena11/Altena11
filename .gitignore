@@ -2,9 +2,9 @@ Jangan tekan link ni. Add link ni kat url playlist ott.
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440"
 
-#EXTM3U vod_library="https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml"
+vod_library="https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml"
 
-#EXTM3U billed-msg="7"
+#EXTM3U billed-msg="HBO"
 
 
 ####################################### NJOI TV ##########################################
@@ -1925,6 +1925,7 @@ https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=65
 VOD
 #####################################################################################
 
+[{"name": "Updated: 24/10/2023", "category": "Updated: 24/10/2023", "info": {"poster": "https://logovtor.com/wp-content/uploads/2020/05/hbo-go-logo-vector.png", "bg": "https://www.hbogoasia.my/static/images/imgplaceholderLandscape414@3x.png", "plot": "Untuk info terkini, sila ke FB Pijanify (https://fb.me/pijanify)", "backdrop": "https://www.hbogoasia.my/static/images/imgplaceholderLandscape414@3x.png", "director": ["Pijanify"], "cast": ["Pijanify"], "year": "2023"}, "video": ""},
 
 
 {"name": "Meg 2: The Trench", "category": "VOD MOVIES", "info": {"poster": "https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg", "bg": "https://dai3fd1oh325y.cloudfront.net/images/originald/041162X0-landscape.jpg", "plot": "Meg 2: The Trench dives into uncharted waters with Jason Statham and global action icon Wu Jing as they lead a daring research team on an exploratory dive into the deepest depths of the ocean. Their voyage spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival. Pitted against colossal Megs and relentless environmental plunderers, our heroes must outrun, outsmart, and outswim their merciless predators in a pulse-pounding race against time.", "backdrop": "https://dai3fd1oh325y.cloudfront.net/images/originald/041162X0-landscape.jpg", "director": ["Ben Wheatley"], "cast": ["Jason Statham", "Wu Jing", "Sophia Cai", "Page Kennedy", "Sergio Peris-Mencheta", "Skyler Samuels"], "year": "2023"}, "video": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/MYS_DOLBY_index.mpd", "drm": "clearkey", "drmkey": "a7244ed7a5678d52130672c4b3cf514e:342e55749e9ef5b57c9371fc4c008132"},
