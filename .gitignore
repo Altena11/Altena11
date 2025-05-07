@@ -1,7 +1,22 @@
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRia" group-title="Brunei" ch-number="104" group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" tvg-logo="https://aqfadtv.xyz/logos/Astro Ria (2024).png", Riyoo test only
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; TMRV075G Build/UKQ1.230924.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="INDONESIA",Magna
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/TAjYixM.png?v=1.0.0.1" group-title="INDONESIA" tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia", Bioskop Indonesia
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png" group-title="INDONESIA",Thrill
+http://202.147.193.244/live/eds/Thrill/sa_dash/Thrill.mpd
+
+#EXTINF:-1 tvg-id="Allplay" group-title="INDONESIA" tvg-url="" tvg-logo="https://i.ibb.co.com/6KWD5xp/88d32b5e8822f73d3d394bdda25f9110-icon.jpg",Allplay Movies
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://www.indihometv.com/
+
+#EXTINF:-1 tvg-id="UseePrime" tvg-logo="https://iili.io/JZIno1s.png" group-title="INDONESIA",AllPlay Entertaiment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 tvg-id="UseePrime" tvg-logo="https://iili.io/JZIno1s.png" group-title="INDONESIA",AllPlay Entertaiment 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
